@@ -3,7 +3,7 @@
 A working guide for executives and senior leaders.
 Beyond setup and features — practical patterns, honest weaknesses, and a framework for getting real value from AI at the executive level.
 
-**By DeWayne L. Searcy · Published by 12 to KNOW, LLC**
+**By DeWayne L. Searcy
 
 ## Read the guide
 
@@ -11,7 +11,7 @@ Beyond setup and features — practical patterns, honest weaknesses, and a frame
 
 ## What this is
 
-A 12-page guide written for executives who are using AI seriously but find that existing material falls into one of two unhelpful buckets — academic theory aimed at scholars, or technical tutorials aimed at developers. This guide occupies the space in between: judgment-layer guidance for senior leaders sitting at the keyboard on Monday morning.
+A 10-page guide written for executives who are using AI seriously but find that existing material falls into one of two unhelpful buckets — academic theory aimed at scholars, or technical tutorials aimed at developers. This guide occupies the space in between: judgment-layer guidance for senior leaders sitting at the keyboard on Monday morning.
 
 The guide covers:
 
@@ -25,6 +25,5 @@ The guide covers:
 ## Copyright
 
 © 2026 DeWayne L. Searcy · All rights reserved
-Published by 12 to KNOW, LLC
 
 No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
