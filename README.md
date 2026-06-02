@@ -28,5 +28,3 @@ The guide covers:
 Published by 12 to KNOW, LLC
 
 No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
-
-For permission requests, speaking inquiries, or bulk distribution, contact the author through 12 to KNOW, LLC.
