@@ -11,7 +11,7 @@ Beyond setup and features — practical patterns, honest weaknesses, and a frame
 
 ## What this is
 
-A 10-page guide written for executives who are using AI seriously but find that existing material falls into one of two unhelpful buckets — academic theory aimed at scholars, or technical tutorials aimed at developers. This guide occupies the space in between: judgment-layer guidance for senior leaders sitting at the keyboard on Monday morning.
+A 11-page guide written for executives who are using AI seriously but find that existing material falls into one of two unhelpful buckets — academic theory aimed at scholars, or technical tutorials aimed at developers. This guide occupies the space in between: judgment-layer guidance for senior leaders sitting at the keyboard on Monday morning.
 
 The guide covers:
 
